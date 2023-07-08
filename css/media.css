@@ -1,0 +1,277 @@
+/* Extra small devices */
+
+@media (max-width: 575.98px) { 
+  .banner_item h1 {
+    font-size: 45px;
+}
+.banner_item h3 {
+  font-size: 30px;
+}
+.banner {
+  padding: 140px 0;
+}
+.about {
+  padding: 45px 0 50px 0;
+}
+.navbar-light .navbar-toggler {
+  border: none;
+}
+button:focus {
+  outline: 0px dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+.about_heading h2 {
+  font-size: 25px;
+}
+.about_heading p {
+  padding: 0 11px;
+}
+.about_img {
+  margin-top: 10px;
+}
+.services {
+  padding: 50px 0;
+}
+.services_heading h2 {
+  font-size: 25px;
+}
+.spech {
+  margin-top: 0px;
+}
+.box_info p {
+  font-size: 20px;
+  margin-top: 40px;
+}
+.team {
+  padding: 15px 0;
+}
+.team_heading h2 {
+  font-size: 26px;
+}
+.team_heading h3 {
+  font-size: 32px;
+}
+.team_ditails_heading h4 {
+  margin-top: -20px;
+}
+.team_heading p {
+  padding: 12px;
+  margin-top: 65px;
+}
+
+.team_img {
+  margin-top: 0px;
+}
+.team_overly_icon i {
+  padding: 12px 9px;
+}
+.gallery_heading h3 {
+  font-size: 32px;
+}
+.gallery_heading h2 {
+  font-size: 25px;
+}
+.gallery_heading p {
+  padding: 12px;
+}
+.gallery_spech {
+  padding: 20px 0 30px 0;
+}
+.footer {
+  padding: 30px 0 0 0;
+}
+.footer_item1 p {
+  margin-bottom: 10px;
+}
+.footer_item1 h6 a {
+  font-size: 13px;
+}
+.footer_item1 form input {
+  height: 40px;
+}
+.footer_item1 form button {
+  padding: 10px 25px;
+}
+.footer_item1 h2 {
+  margin-top: 15px;
+}
+.blogs_headig h4 {
+  margin-top: 20px;
+}
+.blog_info {
+  margin-top: 15px;
+}
+.insta_headig h4 {
+  margin-top: 20px;
+}
+.insta_headig {
+  margin-bottom: 20px;
+}
+.copy_right p {
+  font-size: 11px;
+}
+.view {
+  font-size: 12px;
+}
+.gallery_overly_item i {
+  font-size: 28px;
+}
+.gallery_overly_item h4 {
+  font-size: 12px;
+}
+.gallery_overly_item p {
+  font-size: 12px;
+}
+
+}
+
+ /* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .banner_item h1 {
+    font-size: 80px;
+ }
+ .banner_item h3 {
+  font-size: 50px;
+}
+.banner {
+  padding: 185px 0;
+}
+.navbar-light .navbar-toggler {
+  border: none;
+}
+button:focus {
+  outline: 0px dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+.about {
+  padding: 60px 0 60px 0;
+}
+.about_img {
+  margin-top: 20px;
+}
+.services {
+  padding: 70px 0;
+}
+.spech {
+  margin-top: 0px;
+}
+.box {
+  text-align: center;
+}
+.box_info p {
+  font-size: 22px;
+  padding: 20px;
+}
+.box_info h5::before {
+  left: 80px;
+}
+.team {
+  padding: 20px 0;
+}
+.team_img {
+  margin-top: 25px;
+  margin-bottom: -15px;
+}
+.footer_item1 h2 {
+  margin-top: 50px;
+}
+.gallery_spech {
+  padding: 35px 0 55px 0;
+}
+.blogs_headig h4 {
+  margin-top: 35px;
+}
+.blog_info {
+  margin-top: 20px;
+}
+.insta_headig h4 {
+  margin-top: 35px;
+}
+}
+
+ /* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .banner_item h1 {
+    font-size: 115px;
+}
+.banner_item h3 {
+  font-size: 65px;
+}
+.banner {
+  padding: 190px 0;
+}
+.navbar-light .navbar-toggler {
+  border: none;
+}
+button:focus {
+  outline: 0px dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+.about {
+  padding: 75px 0 80px 0;
+}
+.about_heading p {
+  font-size: 20px;
+}
+.about_img {
+  margin-top: 35px;
+}
+.services {
+  padding: 75px 0;
+}
+.box_info {
+  margin-top: 30px;
+}
+.box {
+  text-align: center;
+}
+.box_info p {
+  font-size: 19px;
+  padding: 10px;
+}
+.box_info h5::before {
+  left: 165px;
+}
+.team {
+  padding: 25px 0;
+}
+.team_heading p {
+  font-size: 20px;
+}
+.team_img {
+  margin-top: 30px;
+  margin-bottom: -15px;
+}
+.footer_item1 h2 {
+  margin-top: 60px;
+}
+.blog_info {
+  margin-top: 20px;
+}
+.gallery_spech {
+  padding: 40px 0 60px 0;
+}
+.gallery_heading p {
+  font-size: 20px;
+}
+.spech {
+  margin-top: 0px;
+}
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
